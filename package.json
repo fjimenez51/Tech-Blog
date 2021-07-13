@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fjimenez51/Tech-Blog.git"
+    "url": "git+https://github.com/fjimenez51/Techblog.git"
   },
   "author": "Fernando Jimenez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fjimenez51/Tech-Blog/issues"
+    "url": "https://github.com/fjimenez51/Techblog/issues"
   },
-  "homepage": "https://github.com/fjimenez51/Tech-Blog#readme",
+  "homepage": "https://github.com/fjimenez51/Techblog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.0",
