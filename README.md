@@ -50,27 +50,13 @@
 - To start the server, in the command line run: 
 - `npm start`
 
-  ![Screen Shot1](./images/Full_Screen_Shot_DashBoard.png?raw=true "Screen Shot1")
-
-  ![Screen Shot2](./images/Login_Screen.png?raw=true "Screen Shot2")
-
-  ![Screen Shot3](./images/Signup_Screen.png?raw=true "Screen Shot3")
-
-  ![Screen Shot4](./images/Create_Post_Screen.png?raw=true "Screen Shot4")
-
-  ![Screen Shot5](./images/Add_Comment_Screen.png?raw=true "Screen Shot5")
-
-  ![Screen Shot6](./images/Edit_Post.png?raw=true "Screen Shot6")
-
-  ![Screen Shot7](./images/Delete_Post.png?raw=true "Screen Shot7")
-
   
    
  ## Links
  
   * Application URL: (https://fjimenez51.github.io/Tech-Blog/)
   * Github Repository URL: (https://github.com/fjimenez51/Tech-Blog)
-  * Heroku URL: (https://cryptic-spire-79502.herokuapp.com/) *edit*
+  * Demo Link: (https://share.getcloudapp.com/P8u9zgzg)
 
 ## License
 
