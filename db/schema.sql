@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS ecommerce_db;
+DROP DATABASE IF EXISTS heroku_787a7ac882cefc6;
 
-CREATE DATABASE ecommerce_db;
+CREATE DATABASE heroku_787a7ac882cefc6;
