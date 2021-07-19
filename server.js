@@ -21,7 +21,7 @@ const sess = {
       
   },
   resave: false,
-  //rolling: true,
+
   saveUninitialized: true,
   store: new SequelizeStore({
     db: sequelize
