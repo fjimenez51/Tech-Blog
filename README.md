@@ -57,6 +57,7 @@
   * Application URL: (https://fjimenez51.github.io/Tech-Blog/)
   * Github Repository URL: (https://github.com/fjimenez51/Tech-Blog)
   * Demo Link: (https://share.getcloudapp.com/P8u9zgzg)
+  * Heroku: (https://glacial-dusk-34525.herokuapp.com/)
 
 ## License
 
